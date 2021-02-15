@@ -1,0 +1,13 @@
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\bin\Debug\netcoreapp3.1\Sets.exe
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\bin\Debug\netcoreapp3.1\Sets.deps.json
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\bin\Debug\netcoreapp3.1\Sets.runtimeconfig.json
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\bin\Debug\netcoreapp3.1\Sets.runtimeconfig.dev.json
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\bin\Debug\netcoreapp3.1\Sets.dll
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\bin\Debug\netcoreapp3.1\Sets.pdb
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.dll
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.pdb
+C:\Users\Andrew\Desktop\C# .NET projects\Sets\Sets\obj\Debug\netcoreapp3.1\Sets.genruntimeconfig.cache
